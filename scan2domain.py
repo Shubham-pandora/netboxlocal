@@ -26,8 +26,9 @@ if __name__ == '__main__':
     found_ip_in_network = []
     for address1 in my_scan.list_of_hosts_found:
         found_ip_in_network.append(str(address1)) 
-        
-    print(type(found_ip_in_network))
+
+    print(found_ip_in_network)
+
     # Get all IP from prefix
     for ipaddress in ipcalc.Network(my_network):
         # Doing get request to netbox
@@ -35,5 +36,21 @@ if __name__ == '__main__':
         ipaddress1 = requests.get(request_url,headers=headers)
         netboxip = ipaddress1.json()
         print(ipaddress)
-        print(netboxip)
+        # print(netboxip)
         print(netboxip['count'])
+
+        # if not in netbox
+        if netboxip['count'] == 0:
+            # check if in network exists and not exists in netbox
+            if ipaddress in found_ip_in_network:
+                # Adding in IP netbox
+                netbox.ipam.create_ip_address(str(ipaddress))
+            else:
+                pass
+        else:
+            # if not exits in netbox and network
+            if ipaddress in found_ip_in_network:
+                pass
+            else:
+                # if not exists in network but exists in netbox then delete from netbox
+                netbox.ipam.delete_ip_address(str(ipaddress))

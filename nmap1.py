@@ -4,7 +4,7 @@ import platform
 # print(platform.node())
 # print(socket.gethostname())
 # print(socket.gethostbyaddr("192.168.3.119"))
-a = socket.gethostbyaddr("192.168.3.119")
+a = socket.gethostbyaddr("192.168.2.139")
 print(type(a))
 print(a[0])
 

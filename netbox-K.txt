@@ -23,7 +23,10 @@ scanandadd - add ip automation
 
 postman
 http://192.168.0.108:8001/api/dcim/devices/
-http://192.168.0.108:8001/api/ipam/ip-addresses/
+http://192.168.0.108:8001/api/ipam/ip-addresses
+http://192.168.0.108:8001/api/ipam/ip-addresses/1006/
+http://192.168.0.108/api/ipam/ip-addresses/?q=192.168.0.2
+http://alpha2-209.pandorarndlabs.net:8001/ipam/ip-addresses/add/
 #############Face-detection
 
 https://www.analyticsvidhya.com/blog/2021/11/facial-emotion-detection-using-cnn/
@@ -32,3 +35,8 @@ C:\Users\Build\Desktop\python\venvface\Scripts\python.exe -m pip install ipykern
 
 jupyter notebook
 http://localhost:8888/tree
+
+
+
+[{"key":"Content-Type","value":"application/json","description":""}]
+Authorization Token c384a68ab0733a26c11b60ac0221180f10a86d1a

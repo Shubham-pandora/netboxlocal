@@ -36,7 +36,7 @@ if __name__ == '__main__':
         ipaddress1 = requests.get(request_url,headers=headers)
         netboxip = ipaddress1.json()
         print(ipaddress)
-        print(netboxip)
+        # print(netboxip)
         print(netboxip['count'])
 
         # if not in netbox
