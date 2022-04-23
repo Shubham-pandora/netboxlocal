@@ -1,4 +1,16 @@
-import nmap
-nmScan = nmap.PortScanner()
+import socket
 
-nmScan.scan('127.0.0.1', '21-443')
+import platform
+# print(platform.node())
+# print(socket.gethostname())
+# print(socket.gethostbyaddr("192.168.3.119"))
+a = socket.gethostbyaddr("192.168.3.119")
+print(type(a))
+print(a[0])
+
+
+# import nmap
+# nmScan = nmap.PortScanner()
+
+# nmScan.scan('192.168.1.32', '21-443')
+# nmScan.command_line()

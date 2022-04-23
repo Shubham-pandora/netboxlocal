@@ -25,7 +25,15 @@ if __name__ == '__main__':
     # Here we define exits IP address  in our N/W and write it to list
     found_ip_in_network = []
     for address1 in my_scan.list_of_hosts_found:
-        print(address1)
-        netbox.ipam.create_ip_address(address1)
+        found_ip_in_network.append(str(address1)) 
         
-
+    print(type(found_ip_in_network))
+    # Get all IP from prefix
+    for ipaddress in ipcalc.Network(my_network):
+        # Doing get request to netbox
+        request_url = f"{NB_URL}/api/ipam/ip-addresses/?q={ipaddress}/"
+        ipaddress1 = requests.get(request_url,headers=headers)
+        netboxip = ipaddress1.json()
+        print(ipaddress)
+        print(netboxip)
+        print(netboxip['count'])
