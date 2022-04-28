@@ -1,0 +1,445 @@
+192.168.1.1 Down
+a.sh: line 4: nbtscan: command not found
+192.168.1.2 up
+ssh: connect to host 192.168.1.2 port 22: Connection refused
+192.168.1.2 up
+192.168.1.3 Down
+192.168.1.4 Down
+a.sh: line 4: nbtscan: command not found
+192.168.1.5 up
+192.168.1.5 up
+192.168.1.6 Down
+192.168.1.7 Down
+a.sh: line 4: nbtscan: command not found
+192.168.1.8 up
+ssh: connect to host 192.168.1.8 port 22: Connection refused
+192.168.1.8 up
+192.168.1.9 Down
+192.168.1.10 Down
+192.168.1.11 Down
+192.168.1.12 Down
+192.168.1.13 Down
+a.sh: line 4: nbtscan: command not found
+192.168.1.14 up
+192.168.1.14 up localhost.localdomain
+192.168.1.15 Down
+192.168.1.16 Down
+192.168.1.17 Down
+192.168.1.18 Down
+192.168.1.19 Down
+192.168.1.20 Down
+192.168.1.21 Down
+a.sh: line 4: nbtscan: command not found
+192.168.1.22 up
+192.168.1.22 up
+a.sh: line 4: nbtscan: command not found
+192.168.1.23 up
+192.168.1.23 up Dhananjay
+192.168.1.24 Down
+a.sh: line 4: nbtscan: command not found
+192.168.1.25 up
+ssh: connect to host 192.168.1.25 port 22: Connection refused
+192.168.1.25 up
+192.168.1.26 Down
+192.168.1.27 Down
+a.sh: line 4: nbtscan: command not found
+192.168.1.28 up
+192.168.1.28 up
+192.168.1.29 Down
+192.168.1.30 Down
+192.168.1.31 Down
+a.sh: line 4: nbtscan: command not found
+192.168.1.32 up
+192.168.1.32 up Pavankumar
+192.168.1.33 Down
+192.168.1.34 Down
+192.168.1.35 Down
+192.168.1.36 Down
+192.168.1.37 Down
+192.168.1.38 Down
+192.168.1.39 Down
+192.168.1.40 Down
+192.168.1.41 Down
+192.168.1.42 Down
+192.168.1.43 Down
+192.168.1.44 Down
+192.168.1.45 Down
+192.168.1.46 Down
+a.sh: line 4: nbtscan: command not found
+192.168.1.47 up
+192.168.1.47 up
+192.168.1.48 Down
+192.168.1.49 Down
+192.168.1.50 Down
+a.sh: line 4: nbtscan: command not found
+192.168.1.51 up
+192.168.1.51 up
+192.168.1.52 Down
+a.sh: line 4: nbtscan: command not found
+192.168.1.53 up
+192.168.1.53 up
+a.sh: line 4: nbtscan: command not found
+192.168.1.54 up
+192.168.1.54 up
+192.168.1.55 Down
+a.sh: line 4: nbtscan: command not found
+192.168.1.56 up
+ssh: connect to host 192.168.1.56 port 22: Connection refused
+192.168.1.56 up
+a.sh: line 4: nbtscan: command not found
+192.168.1.57 up
+192.168.1.57 up Nawaj
+192.168.1.58 Down
+192.168.1.59 Down
+192.168.1.60 Down
+192.168.1.61 Down
+192.168.1.62 Down
+192.168.1.63 Down
+192.168.1.64 Down
+192.168.1.65 Down
+192.168.1.66 Down
+192.168.1.67 Down
+a.sh: line 4: nbtscan: command not found
+192.168.1.68 up
+192.168.1.68 up
+a.sh: line 4: nbtscan: command not found
+192.168.1.69 up
+ssh: connect to host 192.168.1.69 port 22: Connection refused
+192.168.1.69 up
+192.168.1.70 Down
+192.168.1.71 Down
+a.sh: line 4: nbtscan: command not found
+192.168.1.72 up
+ssh: connect to host 192.168.1.72 port 22: Connection refused
+192.168.1.72 up
+192.168.1.73 Down
+192.168.1.74 Down
+192.168.1.75 Down
+192.168.1.76 Down
+a.sh: line 4: nbtscan: command not found
+192.168.1.77 up
+192.168.1.77 up Venu
+192.168.1.78 Down
+192.168.1.79 Down
+192.168.1.80 Down
+192.168.1.81 Down
+192.168.1.82 Down
+a.sh: line 4: nbtscan: command not found
+192.168.1.83 up
+192.168.1.83 up
+a.sh: line 4: nbtscan: command not found
+192.168.1.84 up
+192.168.1.84 up
+a.sh: line 4: nbtscan: command not found
+192.168.1.85 up
+192.168.1.85 up Deepika
+192.168.1.86 Down
+a.sh: line 4: nbtscan: command not found
+192.168.1.87 up
+192.168.1.87 up
+192.168.1.88 Down
+192.168.1.89 Down
+192.168.1.90 Down
+a.sh: line 4: nbtscan: command not found
+192.168.1.91 up
+192.168.1.91 up
+a.sh: line 4: nbtscan: command not found
+192.168.1.92 up
+192.168.1.92 up myredmine.beta-wspbx.com
+192.168.1.93 Down
+a.sh: line 4: nbtscan: command not found
+192.168.1.94 up
+192.168.1.94 up ganesh
+a.sh: line 4: nbtscan: command not found
+192.168.1.95 up
+192.168.1.95 up
+a.sh: line 4: nbtscan: command not found
+192.168.1.96 up
+192.168.1.96 up
+192.168.1.97 Down
+192.168.1.98 Down
+192.168.1.99 Down
+192.168.1.100 Down
+a.sh: line 4: nbtscan: command not found
+192.168.1.101 up
+192.168.1.101 up SmartBox6
+a.sh: line 4: nbtscan: command not found
+192.168.1.102 up
+192.168.1.102 up alpha1-101.pandorarndlabs.net
+a.sh: line 4: nbtscan: command not found
+192.168.1.103 up
+192.168.1.103 up alpha1-102.pandorarndlabs.net
+a.sh: line 4: nbtscan: command not found
+192.168.1.104 up
+192.168.1.104 up alpha1-103.pandorarndlabs.net
+a.sh: line 4: nbtscan: command not found
+192.168.1.105 up
+192.168.1.105 up
+a.sh: line 4: nbtscan: command not found
+192.168.1.106 up
+192.168.1.106 up
+a.sh: line 4: nbtscan: command not found
+192.168.1.107 up
+192.168.1.107 up
+a.sh: line 4: nbtscan: command not found
+192.168.1.108 up
+192.168.1.108 up
+a.sh: line 4: nbtscan: command not found
+192.168.1.109 up
+ssh: connect to host 192.168.1.109 port 22: Connection refused
+192.168.1.109 up
+a.sh: line 4: nbtscan: command not found
+192.168.1.110 up
+192.168.1.110 up
+a.sh: line 4: nbtscan: command not found
+192.168.1.111 up
+192.168.1.111 up
+a.sh: line 4: nbtscan: command not found
+192.168.1.112 up
+192.168.1.112 up
+a.sh: line 4: nbtscan: command not found
+192.168.1.113 up
+ssh: connect to host 192.168.1.113 port 22: Connection refused
+192.168.1.113 up
+a.sh: line 4: nbtscan: command not found
+192.168.1.114 up
+192.168.1.114 up alpha1-110.pandorarndlabs.net
+a.sh: line 4: nbtscan: command not found
+192.168.1.115 up
+192.168.1.115 up alpha1-111.pandorarndlabs.net
+a.sh: line 4: nbtscan: command not found
+192.168.1.116 up
+192.168.1.116 up 116-Box
+192.168.1.117 Down
+a.sh: line 4: nbtscan: command not found
+192.168.1.118 up
+192.168.1.118 up localhost.localdomain
+a.sh: line 4: nbtscan: command not found
+192.168.1.119 up
+192.168.1.119 up localhost.localdomain
+192.168.1.120 Down
+192.168.1.121 Down
+a.sh: line 4: nbtscan: command not found
+192.168.1.122 up
+192.168.1.122 up
+192.168.1.123 Down
+192.168.1.124 Down
+192.168.1.125 Down
+192.168.1.126 Down
+192.168.1.127 Down
+192.168.1.128 Down
+192.168.1.129 Down
+192.168.1.130 Down
+a.sh: line 4: nbtscan: command not found
+192.168.1.131 up
+192.168.1.131 up
+192.168.1.132 Down
+192.168.1.133 Down
+192.168.1.134 Down
+192.168.1.135 Down
+192.168.1.136 Down
+192.168.1.137 Down
+192.168.1.138 Down
+192.168.1.139 Down
+192.168.1.140 Down
+192.168.1.141 Down
+192.168.1.142 Down
+192.168.1.143 Down
+192.168.1.144 Down
+a.sh: line 4: nbtscan: command not found
+192.168.1.145 up
+192.168.1.145 up
+192.168.1.146 Down
+a.sh: line 4: nbtscan: command not found
+192.168.1.147 up
+192.168.1.147 up localhost.localdomain
+192.168.1.148 Down
+a.sh: line 4: nbtscan: command not found
+192.168.1.149 up
+ssh: connect to host 192.168.1.149 port 22: Connection refused
+192.168.1.149 up
+192.168.1.150 Down
+a.sh: line 4: nbtscan: command not found
+192.168.1.151 up
+ssh: connect to host 192.168.1.151 port 22: Connection refused
+192.168.1.151 up
+192.168.1.152 Down
+a.sh: line 4: nbtscan: command not found
+192.168.1.153 up
+ssh: connect to host 192.168.1.153 port 22: Connection timed out
+192.168.1.153 up
+192.168.1.154 Down
+192.168.1.155 Down
+192.168.1.156 Down
+192.168.1.157 Down
+192.168.1.158 Down
+192.168.1.159 Down
+a.sh: line 4: nbtscan: command not found
+192.168.1.160 up
+192.168.1.160 up
+192.168.1.161 Down
+192.168.1.162 Down
+192.168.1.163 Down
+192.168.1.164 Down
+192.168.1.165 Down
+192.168.1.166 Down
+192.168.1.167 Down
+a.sh: line 4: nbtscan: command not found
+192.168.1.168 up
+192.168.1.168 up
+192.168.1.169 Down
+192.168.1.170 Down
+a.sh: line 4: nbtscan: command not found
+192.168.1.171 up
+ssh: connect to host 192.168.1.171 port 22: Connection timed out
+192.168.1.171 up
+a.sh: line 4: nbtscan: command not found
+192.168.1.172 up
+192.168.1.172 up localhost.localdomain
+192.168.1.173 Down
+192.168.1.174 Down
+192.168.1.175 Down
+192.168.1.176 Down
+192.168.1.177 Down
+192.168.1.178 Down
+a.sh: line 4: nbtscan: command not found
+192.168.1.179 up
+ssh: connect to host 192.168.1.179 port 22: Connection timed out
+192.168.1.179 up
+192.168.1.180 Down
+a.sh: line 4: nbtscan: command not found
+192.168.1.181 up
+ssh: connect to host 192.168.1.181 port 22: Connection refused
+192.168.1.181 up
+192.168.1.182 Down
+192.168.1.183 Down
+192.168.1.184 Down
+a.sh: line 4: nbtscan: command not found
+192.168.1.185 up
+ssh: connect to host 192.168.1.185 port 22: Connection refused
+192.168.1.185 up
+192.168.1.186 Down
+a.sh: line 4: nbtscan: command not found
+192.168.1.187 up
+Unable to negotiate with 192.168.1.187 port 22: no matching host key type found. Their offer: ssh-dss
+192.168.1.187 up
+192.168.1.188 Down
+a.sh: line 4: nbtscan: command not found
+192.168.1.189 up
+192.168.1.189 up
+192.168.1.190 Down
+192.168.1.191 Down
+192.168.1.192 Down
+192.168.1.193 Down
+a.sh: line 4: nbtscan: command not found
+192.168.1.194 up
+ssh: connect to host 192.168.1.194 port 22: Connection refused
+192.168.1.194 up
+192.168.1.195 Down
+192.168.1.196 Down
+a.sh: line 4: nbtscan: command not found
+192.168.1.197 up
+ssh: connect to host 192.168.1.197 port 22: Connection refused
+192.168.1.197 up
+192.168.1.198 Down
+192.168.1.199 Down
+a.sh: line 4: nbtscan: command not found
+192.168.1.200 up
+ssh: connect to host 192.168.1.200 port 22: Connection refused
+192.168.1.200 up
+192.168.1.201 Down
+192.168.1.202 Down
+192.168.1.203 Down
+192.168.1.204 Down
+192.168.1.205 Down
+192.168.1.206 Down
+192.168.1.207 Down
+192.168.1.208 Down
+a.sh: line 4: nbtscan: command not found
+192.168.1.209 up
+192.168.1.209 up
+a.sh: line 4: nbtscan: command not found
+192.168.1.210 up
+192.168.1.210 up
+a.sh: line 4: nbtscan: command not found
+192.168.1.211 up
+ssh: connect to host 192.168.1.211 port 22: Connection refused
+192.168.1.211 up
+192.168.1.212 Down
+192.168.1.213 Down
+a.sh: line 4: nbtscan: command not found
+192.168.1.214 up
+ssh: connect to host 192.168.1.214 port 22: Connection refused
+192.168.1.214 up
+192.168.1.215 Down
+192.168.1.216 Down
+192.168.1.217 Down
+192.168.1.218 Down
+192.168.1.219 Down
+a.sh: line 4: nbtscan: command not found
+192.168.1.220 up
+ssh: connect to host 192.168.1.220 port 22: Connection refused
+192.168.1.220 up
+192.168.1.221 Down
+a.sh: line 4: nbtscan: command not found
+192.168.1.222 up
+ssh: connect to host 192.168.1.222 port 22: Connection refused
+192.168.1.222 up
+192.168.1.223 Down
+192.168.1.224 Down
+192.168.1.225 Down
+192.168.1.226 Down
+192.168.1.227 Down
+192.168.1.228 Down
+192.168.1.229 Down
+192.168.1.230 Down
+192.168.1.231 Down
+a.sh: line 4: nbtscan: command not found
+192.168.1.232 up
+192.168.1.232 up
+192.168.1.233 Down
+192.168.1.234 Down
+192.168.1.235 Down
+192.168.1.236 Down
+192.168.1.237 Down
+a.sh: line 4: nbtscan: command not found
+192.168.1.238 up
+ssh: connect to host 192.168.1.238 port 22: Connection refused
+192.168.1.238 up
+a.sh: line 4: nbtscan: command not found
+192.168.1.239 up
+ssh: connect to host 192.168.1.239 port 22: Connection refused
+192.168.1.239 up
+192.168.1.240 Down
+192.168.1.241 Down
+a.sh: line 4: nbtscan: command not found
+192.168.1.242 up
+ssh: connect to host 192.168.1.242 port 22: Connection refused
+192.168.1.242 up
+192.168.1.243 Down
+192.168.1.244 Down
+a.sh: line 4: nbtscan: command not found
+192.168.1.245 up
+ssh: connect to host 192.168.1.245 port 22: Connection timed out
+192.168.1.245 up
+192.168.1.246 Down
+192.168.1.247 Down
+a.sh: line 4: nbtscan: command not found
+192.168.1.248 up
+192.168.1.248 up Bhargav
+192.168.1.249 Down
+192.168.1.250 Down
+192.168.1.251 Down
+a.sh: line 4: nbtscan: command not found
+192.168.1.252 up
+ssh: connect to host 192.168.1.252 port 22: Connection timed out
+192.168.1.252 up
+a.sh: line 4: nbtscan: command not found
+192.168.1.253 up
+ssh: connect to host 192.168.1.253 port 22: Connection refused
+192.168.1.253 up
+a.sh: line 4: nbtscan: command not found
+192.168.1.254 up
+ssh: connect to host 192.168.1.254 port 22: Connection refused
+192.168.1.254 up
+192.168.1.255 Down

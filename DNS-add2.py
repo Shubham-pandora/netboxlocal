@@ -44,9 +44,9 @@ if __name__ == '__main__':
             # check if in network exists and not exists in netbox
             if ipaddress in found_ip_in_network:
                 # Adding in IP netbox
-                # hostnamepass = socket.gethostbyaddr(str(ipaddress))
-                # netbox.ipam.create_ip_address(str(ipaddress),dns_name=hostnamepass)
-                netbox.ipam.create_ip_address(str(ipaddress),dns_name="shubham")
+                hostnamepass = socket.gethostbyaddr(str(ipaddress))
+                netbox.ipam.create_ip_address(str(ipaddress),dns_name=hostnamepass)
+                # netbox.ipam.create_ip_address(str(ipaddress),dns_name="shubham")
             else:
                 pass
         else:
