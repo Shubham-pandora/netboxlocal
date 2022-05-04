@@ -1,8 +1,15 @@
+from re import I
 import ipcalc
 import networkscan
 from netbox import NetBox
 import requests
 import socket
+import json
+InstanceData ="""{
+    "192.168.0.100/32": "shubham",
+    "192.168.0.101": "Veeru"
+}"""
+Ins = json.loads(InstanceData)
 headers = {
     'content-type': "application/json",
     'authorization': "Token c384a68ab0733a26c11b60ac0221180f10a86d1a",
@@ -43,10 +50,15 @@ if __name__ == '__main__':
         if netboxip['count'] == 0:
             # check if in network exists and not exists in netbox
             if ipaddress in found_ip_in_network:
-                # Adding in IP netbox
-                hostnamepass = socket.gethostbyaddr(str(ipaddress))
-                netbox.ipam.create_ip_address(str(ipaddress),dns_name=hostnamepass)
-                # netbox.ipam.create_ip_address(str(ipaddress),dns_name="shubham")
+                if ipaddress in Ins:
+                    print("%s is found in JSON data" %ipaddress)
+                    print("The value of", ipaddress,"is", Ins[ipaddress])                     
+                    # Adding in IP netbox            
+                    netbox.ipam.create_ip_address(str(ipaddress),dns_name=hostnamepass)
+                    # netbox.ipam.create_ip_address(str(ipaddress),dns_name="shubham")
+                else:
+                    netbox.ipam.create_ip_address(str(ipaddress),dns_name="success")
+                    
             else:
                 pass
         else:
