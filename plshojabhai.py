@@ -202,7 +202,7 @@ if __name__ == '__main__':
                     print("------------------------")
                     netbox.ipam.create_ip_address(str(ipaddress),dns_name=Ins[str(ipaddress)])
                 else:
-                    netbox.ipam.create_ip_address(str(ipaddress),dns_name="--")
+                    netbox.ipam.create_ip_address(str(ipaddress),dns_name="unknown")
                     print("Not---------")
                     
             else:
