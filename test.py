@@ -4,8 +4,8 @@ def ippattern(i,j):
     a = "192.168."+str(i)+"."+str(j)
     return a  
 
-for i in range(3,4):
-    for j in range(0,20):  
+for i in range(2,4):
+    for j in range(0,256):  
         b = ippattern(i,j)
         try:
             # print(b)
